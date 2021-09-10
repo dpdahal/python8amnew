@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f432298-c219-42cb-8ff9-c6ff8c862963" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise/demo/introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/calculate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/cls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/lib/abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/lib/chinese.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/lib/english.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/lib/hindi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/lib/nepali.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
